@@ -19,7 +19,7 @@ class Board:
     def __init__(self):
         """Dhmiourgia enos board"""
 
-        self.goal = [  # tha xrhsimopoihthei gia na elegxoume ama ftasame ston stoxo
+        self.goal = [  # tha xrhsimopoihthei gia na elegxoume ama ftasame ston stoxo mas
             [" 1", " 2", " 3", " 4"],
             [" 5", " 6", " 7", " 8"],
             [" 9", "10", "11", "12"],
